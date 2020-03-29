@@ -1,3 +1,1 @@
-# primeiro-projeto
-primeiro_projeto_data_science
-Área de Trabalho
+<IMG> h</>ttps://github.com/laura-katiuscia/primeiro-projeto/blob/master/GOSTEI.png
