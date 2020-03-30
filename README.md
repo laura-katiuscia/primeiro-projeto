@@ -1,5 +1,5 @@
 <p> 
-  <img src="C:\Users\angle\Desktop\MeuParticular\GOSTEI.png"/ >
+  <img src="https://br.freepik.com/vetores-gratis/fundo-de-tecnologia-de-visualizacao-de-grande-volume-de-dados_4843023.htm#page=1&query=data%20science&position=45"/ >
 </p>
 
 # Laura Katiuscia
