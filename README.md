@@ -1,5 +1,5 @@
-<p>
-  <img src="C:\Users\angle\Desktop\MeuParticular\GOSTEI.png" >
+<p> 
+  <img src="C:\Users\angle\Desktop\MeuParticular\GOSTEI.png"/ >
 </p>
 
 # Laura Katiuscia
