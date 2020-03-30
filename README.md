@@ -1,5 +1,5 @@
 <p align = "Center"
-<img src = "C:\Users\angle\Desktop\MeuParticular"
+<img src = "C:\angle\Desktop\MeuParticular"
 </p>
-#Laura katiuscia
-<sub>Led Data Science*at Space Operation Center</sub>
+#Laur katiuscia
+<sub>Student Data Science * Aluno de Cinência da Computação
