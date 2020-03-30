@@ -1,6 +1,6 @@
 <p>
   
-  <img src="https://br.freepik.com/vetores-gratis/fundo-de-particulas-de-tecnologia-abstrata-realista_6938850.htm/>
+  
 </p>
 
 # Laura Katiuscia
