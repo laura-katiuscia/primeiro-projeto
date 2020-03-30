@@ -2,4 +2,4 @@
 <img src = "C:\angle\Desktop\MeuParticular"
 </p>
 #Laur katiuscia
-<sub>Student Data Science * Aluno de Cinência da Computação
+<sub>Student Data Science * Aluna de Ciência da Computação
