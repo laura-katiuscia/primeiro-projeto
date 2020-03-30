@@ -8,9 +8,8 @@
 
 
 **Links:**
-* [Blog](http://sigmoidal.ai)
+
 * [LinkedIn](https://www.linkedin.com/in/laura-katiuscia-925b2675/)
-* [Medium](https://www.medium.com)
 
 
 ## Projetos:
