@@ -3,7 +3,7 @@
 </p>
 
 # Laura Katiuscia
-<sub>*Estuda de ciência de dados com Python e Ceência da Computação</sub>
+<sub> Estuda de ciência de dados com Python e Ciência da Computação </sub>
 
 
 **Links:**
